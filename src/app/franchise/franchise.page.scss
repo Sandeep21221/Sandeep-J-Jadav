@@ -1,0 +1,91 @@
+
+
+.ion-toolbar{
+    overflow: hidden;
+    text-align: right;
+}
+.ion-toolbar a:link {
+    padding: 24.5px 16px;
+    text-decoration: none;
+    font-size: 18px; 
+}
+
+.ion-toolbar a:hover{
+    background-color: rgb(245, 241, 18);
+}
+.widget {
+    background-color:rgb(245, 241, 18);
+}
+
+.img{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    height: 100%;
+    
+}
+
+.ion-title{
+    font-size: 60px;
+    text-align: center;
+    color:rgb(245, 241, 18);
+    padding: 14px 16px;
+    font-family: cursive;
+} 
+.ion-title{
+    background-color: black;
+}
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color:rgb(245, 241, 18);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: cursive;
+    
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color:rgb(245, 241, 18);
+    color: black;
+}
+
+/* Add a color to the active/current link */
+
+.img{
+    background-image: url(/../assets/tea.jpg);
+    height: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.top{
+    margin-top: 35px;
+}
+
+.pad{
+    background-color: black;    
+}
+.color{
+    color:rgb(245, 241, 18);
+    font-family: cursive;
+}
+.para{
+    background-color:black;
+    color:rgb(245, 241, 18);
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
+
